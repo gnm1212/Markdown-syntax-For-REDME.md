@@ -44,7 +44,7 @@ Numbered list:
 
 A [link](http://example.com).
 
-![Image](Image_icon.png)
+![Image](https://lh3.googleusercontent.com/ku1xvyLfYO5qoBFwE0_k6dvnrmFdYYas8AdDNc78zdihV5qX3g0MyCNmLzjuXvDCxw=s180-rw)
 
 > Markdown uses email-style > characters for blockquoting.
 
